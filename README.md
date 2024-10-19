@@ -18,7 +18,7 @@ Antes de poder ejecutar este proyecto, asegúrate de tener instalado lo siguient
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/conversor-moneda.git
+   git clone https://github.com/jcamargodiaz/conversor-moneda.git
    cd conversor-moneda
 Descarga y añade la biblioteca gson a tu proyecto:
 
